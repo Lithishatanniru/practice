@@ -1,1 +1,2 @@
 This is from sample2..
+Sample text from sample2 folder
