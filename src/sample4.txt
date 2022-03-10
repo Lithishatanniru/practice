@@ -1,2 +1,0 @@
-This is sample 4
-rel_1.1.1
